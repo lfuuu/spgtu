@@ -7,14 +7,14 @@ void main()
     int height, radius;         
     
     // Запрос высоты
-    printf("Введите высоту цилиндра: ");
+    printf("1. Введите высоту цилиндра: ");
     scanf(" %d", &height);           
     
     // Запрос радиуса
-    printf("Введите радиус цилиндра: ");
+    printf("2. Введите радиус цилиндра: ");
     scanf(" %d", &radius);           
    
     // Вычисление результата 
     volume = M_PI * pow(radius, 2) * height;        
-    printf("Объем = %.3f \n", volume);
+    printf("3. Объем = %.3f \n", volume);
 }
