@@ -17,7 +17,7 @@ void main ()
     else
     {
         double x1 = (-b - sqrt(D)) / (2 * a), x2 = (-b +sqrt(D)) / (2 * a);
-        printf("x1 = %f\nx2 = %f\n", x2, x1);    
+        printf("x1 = %f\nx2 = %f\n", x1, x2);    
     }
     
 }
