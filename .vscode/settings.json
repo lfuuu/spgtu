@@ -1,0 +1,7 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "RK1.C": "cpp",
+        "rk.C": "cpp"
+    }
+}
